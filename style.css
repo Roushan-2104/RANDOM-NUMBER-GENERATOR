@@ -25,6 +25,7 @@ div {
 }
 #generate:active {
   cursor: wait;
+  transition: 0.5s;
   box-shadow: 0px 0px 53px 10px #2076d8;
 }
 p {
