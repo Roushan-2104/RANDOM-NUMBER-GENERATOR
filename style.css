@@ -15,11 +15,11 @@ div {
   border-radius: 4px;
   border: none;
   cursor: pointer;
-  transition: background-color, box-shadow 1s;
+  transition: background-color, box-shadow 0.5s;
 }
 #generate:hover {
   background-color: rgb(201, 201, 201);
-  transition: 1s;
+  transition: 0.5s;
   position: relative;
   box-shadow: 0px 0px 53px 10px #20c3d8;
 }
